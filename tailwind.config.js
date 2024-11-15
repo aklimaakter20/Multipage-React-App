@@ -10,6 +10,10 @@ export default {
         'primary': '#FF9500',
         'secondary' : '#262626'
         },
+        textColor : {
+          'primary': '#FF9500',
+          'secondary': '#262626'
+        }
         // fontFamily: {
         //   'vietnam': ['Be Vietnam Pro", sans-serif']
         // }

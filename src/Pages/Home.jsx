@@ -27,9 +27,9 @@ const Home = () => {
       <section>
         <div className="container mx-auto">
           <div className="text-center px-32 py-16">
-            <h1>Unlock Your Creative Potential</h1>
-            <h3>with Online Design and Development Courses.</h3>
-            <p>Learn from Industry Experts and Enhance Your Skills.</p>
+            <h1 className="text-3xl font-semibold mb-6"><span className="text-primary">Unlock</span> Your Creative Potential</h1>
+            <h3 className="text-2xl text-secondary mb-2 ">with Online Design and Development Courses.</h3>
+            <p className="text-xs">Learn from Industry Experts and Enhance Your Skills.</p>
             <div className="flex gap-6 pt-12 mx-auto w-1/4">
               <button className="bg-primary text-white font-semibold px-3 py-2 rounded-md">
                 Explore Courses
